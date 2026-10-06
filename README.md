@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi, I'm Sahil Shaikh 👋
 
-<!--
-**sahil-shaikh145/sahil-shaikh145** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student interested in software development and Artificial Intelligence. I enjoy building projects, learning new technologies, and exploring how AI can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Computer Engineering Student
+- 💻 C & C++ Developer
+- 🌐 Frontend Development
+- 🤖 Exploring Agentic AI, RAG & LLMs
+- 🔨 Currently working on different projects
+- 🇯🇵 Currently learning Japanese
+- 🌱 Always learning and improving
+
+## 🛠️ Technical Skills
+
+### Programming
+- C
+- C++
+
+### Frontend Development
+- HTML
+- CSS
+- JavaScript
+- React
+
+### AI & Emerging Technologies
+- Agentic AI
+- RAG
+- LLMs
+
+### Tools
+- Git
+- GitHub
+
+## 📌 Currently Working On
+
+- 🤖 Agentic AI projects
+- 🧠 Exploring RAG & LLM applications
+- 🌐 Frontend development projects
+- 💡 Learning and experimenting with new technologies
+
+## 🌱 Currently Learning
+
+- Advanced Frontend Development
+- Agentic AI
+- RAG & LLM Applications
+- Japanese 🇯🇵
+
+## 📫 Connect With Me
+
+- GitHub: [@sahil-shaikh145](https://github.com/sahil-shaikh145)
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for visiting my profile!
