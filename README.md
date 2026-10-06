@@ -52,7 +52,7 @@ I'm a Computer Engineering student interested in software development and Artifi
 ## 📫 Connect With Me
 
 - GitHub: [@sahil-shaikh145](https://github.com/sahil-shaikh145)
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: [Sahil Shaikh](https://www.linkedin.com/in/sahil-shaikh-9bb3a3325/)
 
 ---
 
